@@ -1,0 +1,2702 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(1)",
+                    "etag": "W/\"15\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(1)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/Home.aspx",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{0493C12D-A575-4B0D-B93B-E8E79D45E61A},15\""
+                },
+                "Id": 1,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1300465396000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(1)/CreatedBy"
+                    }
+                },
+                "CreatedById": 6,
+                "Modified": "/Date(1325773711000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(1)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 58,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(1)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "Home.aspx",
+                "VirusStatus": "4766",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 15,
+                "Version": "13.0",
+                "WikiContent": "<div class=\"ExternalClass6C6B3DBCBC8B4CC7A66484EC738F9F28\"><table id=\"layoutsTable\" style=\"width:100%\"><tbody><tr style=\"vertical-align:top\"><td style=\"width:66.6%\"><div class=\"ms-rte-layoutszone-outer\" style=\"width:100%\"><div class=\"ms-rte-layoutszone-inner\">​​​​ <h1 class=\"ms-rteElement-H1B\" style=\"margin-bottom:0px\"><span><span>Welcome to your site! </span></span></h1>\r\n<p> </p>\r\n<p>Add a new image, change this welcome text or add new lists to this page by clicking the edit button above. You can click on Shared Documents to add files or on the calendar to create new team events. Use the links in the getting started section to share your site and customize its look. </p>\r\n<p> </p>\r\n<div class=\"ms-rtestate-read ms-rte-wpbox\"><div class=\"ms-rtestate-notify  ms-rtestate-read 979a3484-9758-4ca4-9202-bb5129b2bc41\" id=\"div_979a3484-9758-4ca4-9202-bb5129b2bc41\"></div>\r\n<div class=\"ms-rtestate-read\" id=\"vid_979a3484-9758-4ca4-9202-bb5129b2bc41\" style=\"display:none\"></div></div>\r\n<p> </p>\r\n<div class=\"ms-rtestate-read ms-rte-wpbox\"><div class=\"ms-rtestate-notify  ms-rtestate-read d7965598-bc17-4973-8d52-515b259b549a\" id=\"div_d7965598-bc17-4973-8d52-515b259b549a\"></div>\r\n<div id=\"vid_d7965598-bc17-4973-8d52-515b259b549a\" style=\"display:none\"></div></div>\r\n<p></p>\r\n<p>  </p>\r\n<div class=\"ms-rtestate-read ms-rte-wpbox\"><div class=\"ms-rtestate-notify  ms-rtestate-read 7684d161-2536-4eb7-9964-6b15bf7495cb\" id=\"div_7684d161-2536-4eb7-9964-6b15bf7495cb\"></div>\r\n<div id=\"vid_7684d161-2536-4eb7-9964-6b15bf7495cb\" style=\"display:none\"></div></div>\r\n<p> </p>\r\n<p> </p>\r\n<div class=\"ms-rtestate-read ms-rte-wpbox\"><div class=\"ms-rtestate-notify  ms-rtestate-read 263a2072-948b-47a0-bdcd-b9c4bbe45ab7\" id=\"div_263a2072-948b-47a0-bdcd-b9c4bbe45ab7\"></div>\r\n<div id=\"vid_263a2072-948b-47a0-bdcd-b9c4bbe45ab7\" style=\"display:none\"></div></div>\r\n​<p></p>\r\n<div class=\"ms-rtestate-read ms-rte-wpbox\"><div class=\"ms-rtestate-notify  ms-rtestate-read b8ebecd1-fb9e-4c02-9162-09bd267d219a\" id=\"div_b8ebecd1-fb9e-4c02-9162-09bd267d219a\"></div>\r\n<div id=\"vid_b8ebecd1-fb9e-4c02-9162-09bd267d219a\" style=\"display:none\"></div></div>\r\n<div class=\"ms-rtestate-read ms-rte-wpbox\"><div class=\"ms-rtestate-notify  ms-rtestate-read e4376381-dd15-4bb6-a692-0288af2349f9\" id=\"div_e4376381-dd15-4bb6-a692-0288af2349f9\"> </div>\r\n​</div></div></div></td>\r\n<td style=\"width:33.3%\"><div class=\"ms-rte-layoutszone-outer\" style=\"width:100%\"><div class=\"ms-rte-layoutszone-inner\"><p class=\"ms-rteThemeForeColor-5-5\" style=\"font-size:10pt;text-align:left\"><img alt=\"People collaborating\" src=\"/_layouts/images/homepageSamplePhoto.jpg\" style=\"margin-top:5px;margin-right:5px;margin-bottom:5px;margin-left:5px\" />  </p>\r\n<p> </p>\r\n<p> </p>\r\n<h2 class=\"ms-rteElement-H2\" style=\"margin-bottom:0px\"><span><span>Getting Started </span></span></h2>\r\n<span><table class=\"ms-rteTable-0\" cellspacing=\"0\" width=\"100%\" style=\"font-size:8pt\"><tbody><tr class=\"ms-rteTableEvenRow-0\" style=\"font-size:1pt\"><td class=\"ms-rteTableEvenCol-0\" style=\"font-size:1pt;width:20px;height:4px\"></td>\r\n<td class=\"ms-rteTableOddCol-0\" style=\"font-size:1pt;height:4px\"></td></tr>\r\n<tr class=\"ms-rteTableOddRow-0\" style=\"font-size:8pt\"><td class=\"ms-rteTableEvenCol-0\" style=\"width:20px;height:20px\"><span class=\"s4-clust ms-rteKeepStyles\" style=\"overflow-y:hidden;display:inline-block;overflow-x:hidden;width:16px;position:relative;height:16px\"><img class=\"ms-rteKeepStyles\" alt=\"Share this site\" src=\"/_layouts/images/fgimg.png\" style=\"border-top-width:0px;border-left-width:0px;left:0px !important;border-bottom-width:0px;position:absolute;top:-526px !important;border-right-width:0px\" /> </span></td>\r\n<td class=\"ms-rteTableOddCol-0\" style=\"height:20px\"><a href=\"/dev/_layouts/user.aspx\"><font color=\"#0072bc\">Share this site</font></a> </td></tr>\r\n<tr class=\"ms-rteTableEvenRow-0\" style=\"font-size:8pt\"><td class=\"ms-rteTableEvenCol-0\" style=\"width:20px;height:20px\"><span class=\"s4-clust ms-rteKeepStyles\" style=\"overflow-y:hidden;display:inline-block;overflow-x:hidden;width:16px;position:relative;height:16px\"><img class=\"ms-rteKeepStyles\" alt=\"Change site theme\" src=\"/_layouts/images/fgimg.png\" style=\"border-top-width:0px;border-left-width:0px;left:0px !important;border-bottom-width:0px;position:absolute;top:-154px !important;border-right-width:0px\" /> </span></td>\r\n<td class=\"ms-rteTableOddCol-0\" style=\"height:20px\"><a href=\"/dev/_layouts/themeweb.aspx\"><font color=\"#0072bc\">Change site theme</font></a> </td></tr>\r\n<tr class=\"ms-rteTableOddRow-0\" style=\"font-size:8pt\"><td class=\"ms-rteTableEvenCol-0\" style=\"width:20px;height:20px\"><span class=\"s4-clust ms-rteKeepStyles\" style=\"overflow-y:hidden;display:inline-block;overflow-x:hidden;width:16px;position:relative;height:16px\"><img class=\"ms-rteKeepStyles\" alt=\"Set a site icon\" src=\"/_layouts/images/fgimg.png\" style=\"border-top-width:0px;border-left-width:0px;left:0px !important;border-bottom-width:0px;position:absolute;top:-510px !important;border-right-width:0px\" /> </span></td>\r\n<td class=\"ms-rteTableOddCol-0\" style=\"height:20px\"><a href=\"/dev/_layouts/prjsetng.aspx\"><font color=\"#0072bc\">Set a site icon</font></a> </td></tr>\r\n<tr class=\"ms-rteTableEvenRow-0\" style=\"font-size:8pt\"><td class=\"ms-rteTableEvenCol-0\" style=\"width:20px;height:20px\"><span class=\"s4-clust ms-rteKeepStyles\" style=\"overflow-y:hidden;display:inline-block;overflow-x:hidden;width:16px;position:relative;height:16px\"><img class=\"ms-rteKeepStyles\" alt=\"Customize the Quick Launch\" src=\"/_layouts/images/fgimg.png\" style=\"border-top-width:0px;border-left-width:0px;left:0px !important;border-bottom-width:0px;position:absolute;top:-170px !important;border-right-width:0px\" /> </span></td>\r\n<td class=\"ms-rteTableOddCol-0\" style=\"font-size:8pt;height:20px\"><a href=\"/dev/_layouts/quiklnch.aspx\"><font color=\"#0072bc\">Customize the Quick Launch</font></a> </td></tr></tbody></table></span><p> </p>\r\n<p> </p>\r\n<p> </p></div></div></td></tr></tbody></table>\r\n<span id=\"layoutsData\" style=\"display:none\">false,false,2</span></div>"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(27)",
+                    "etag": "W/\"0\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(27)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/customPageEditor.aspx",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{534D0240-9370-40F0-BB06-10911516F1C6},8\""
+                },
+                "Id": 27,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1331646320000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(27)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1335541406000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(27)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(27)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": 9,
+                "Name": "customPageEditor.aspx",
+                "VirusStatus": "13558",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 0,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(32)",
+                    "etag": "W/\"2\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(32)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/towtruck.aspx",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{CA828671-730F-41A7-AD70-294D24BDCD4C},5\""
+                },
+                "Id": 32,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1331646320000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(32)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1366303052000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(32)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(32)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "towtruck.aspx",
+                "VirusStatus": "1150",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 2,
+                "Version": "3.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(33)",
+                    "etag": "W/\"13\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(33)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/jsonp.aspx",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{91713917-9ABA-4C0A-8204-B35D652FB397},16\""
+                },
+                "Id": 33,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1331646320000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(33)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1367848971000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(33)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(33)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": 9,
+                "Name": "jsonp.aspx",
+                "VirusStatus": "1508",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 13,
+                "Version": "3.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(34)",
+                    "etag": "W/\"31\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(34)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/IE8sucks.html",
+                    "content_type": "text/html",
+                    "media_etag": "\"{7A10B8EB-2AD9-4D21-BDDC-FCE5C504AF08},32\""
+                },
+                "Id": 34,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372169222000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(34)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372238278000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(34)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(34)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "IE8sucks.html",
+                "VirusStatus": "987",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 31,
+                "Version": "4.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(35)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(35)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev",
+                    "content_type": "text/xml"
+                },
+                "Id": 35,
+                "ContentTypeID": "0x012000D3ADD345F6F31548A036E73F55FE6EAF",
+                "ContentType": "Folder",
+                "Created": "/Date(1372342956000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(35)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372342961000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(35)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(35)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "voting",
+                "VirusStatus": "",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(36)",
+                    "etag": "W/\"0\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(36)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/index.aspx",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{2559BACD-B911-44EE-9681-BD4DB0A272C4},2\""
+                },
+                "Id": 36,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1331646320000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(36)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372342965000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(36)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(36)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": 9,
+                "Name": "index.aspx",
+                "VirusStatus": "1150",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 0,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(37)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(37)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev",
+                    "content_type": "text/xml"
+                },
+                "Id": 37,
+                "ContentTypeID": "0x012000D3ADD345F6F31548A036E73F55FE6EAF",
+                "ContentType": "Folder",
+                "Created": "/Date(1372343562000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(37)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343598000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(37)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(37)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "components",
+                "VirusStatus": "",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(39)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(39)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev",
+                    "content_type": "text/xml"
+                },
+                "Id": 39,
+                "ContentTypeID": "0x012000D3ADD345F6F31548A036E73F55FE6EAF",
+                "ContentType": "Folder",
+                "Created": "/Date(1372343748000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(39)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343748000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(39)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(39)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "fullcalendar-1.6.1",
+                "VirusStatus": "",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(40)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(40)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev",
+                    "content_type": "text/xml"
+                },
+                "Id": 40,
+                "ContentTypeID": "0x012000D3ADD345F6F31548A036E73F55FE6EAF",
+                "ContentType": "Folder",
+                "Created": "/Date(1372343748000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(40)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343748000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(40)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(40)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "demos",
+                "VirusStatus": "",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(41)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(41)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev",
+                    "content_type": "text/xml"
+                },
+                "Id": 41,
+                "ContentTypeID": "0x012000D3ADD345F6F31548A036E73F55FE6EAF",
+                "ContentType": "Folder",
+                "Created": "/Date(1372343748000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(41)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343748000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(41)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(41)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "cupertino",
+                "VirusStatus": "",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(42)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(42)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev",
+                    "content_type": "text/xml"
+                },
+                "Id": 42,
+                "ContentTypeID": "0x012000D3ADD345F6F31548A036E73F55FE6EAF",
+                "ContentType": "Folder",
+                "Created": "/Date(1372343748000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(42)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343748000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(42)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(42)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "images",
+                "VirusStatus": "",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(43)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(43)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev",
+                    "content_type": "text/xml"
+                },
+                "Id": 43,
+                "ContentTypeID": "0x012000D3ADD345F6F31548A036E73F55FE6EAF",
+                "ContentType": "Folder",
+                "Created": "/Date(1372343748000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(43)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343748000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(43)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(43)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "fullcalendar",
+                "VirusStatus": "",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(44)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(44)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev",
+                    "content_type": "text/xml"
+                },
+                "Id": 44,
+                "ContentTypeID": "0x012000D3ADD345F6F31548A036E73F55FE6EAF",
+                "ContentType": "Folder",
+                "Created": "/Date(1372343748000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(44)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343748000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(44)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(44)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "jquery",
+                "VirusStatus": "",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(45)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(45)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/license.txt",
+                    "content_type": "text/plain",
+                    "media_etag": "\"{33F5A360-47FB-4DB6-B482-99E48340707A},1\""
+                },
+                "Id": 45,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343749000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(45)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343749000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(45)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(45)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "license.txt",
+                "VirusStatus": "1053",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(46)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(46)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/theme.css",
+                    "content_type": "text/css",
+                    "media_etag": "\"{E502EE84-A159-45E4-B30A-B5B39757917E},1\""
+                },
+                "Id": 46,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343749000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(46)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343749000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(46)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(46)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "theme.css",
+                "VirusStatus": "19360",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(47)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(47)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images/ui-icons_ffffff_256x240.png",
+                    "content_type": "image/png",
+                    "media_etag": "\"{5167A50B-7AAB-4DF8-A2A6-110A1C585166},1\""
+                },
+                "Id": 47,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343749000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(47)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343749000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(47)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(47)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "ui-icons_ffffff_256x240.png",
+                "VirusStatus": "6299",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(48)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(48)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png",
+                    "content_type": "image/png",
+                    "media_etag": "\"{6E3D44FB-0CFF-478A-9C5D-9696599136AD},1\""
+                },
+                "Id": 48,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343749000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(48)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343749000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(48)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(48)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "ui-bg_glass_100_e4f1fb_1x400.png",
+                "VirusStatus": "350",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(49)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(49)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png",
+                    "content_type": "image/png",
+                    "media_etag": "\"{73DB4ACC-C288-4DE3-AB64-502E3E783D23},1\""
+                },
+                "Id": 49,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343749000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(49)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343749000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(49)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(49)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "ui-bg_diagonals-thick_90_eeeeee_40x40.png",
+                "VirusStatus": "312",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(50)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(50)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/agenda-views.html",
+                    "content_type": "text/html",
+                    "media_etag": "\"{CB631A4C-FF20-4617-8F5F-EE9C13EFE765},1\""
+                },
+                "Id": 50,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343750000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(50)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343750000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(50)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(50)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "agenda-views.html",
+                "VirusStatus": "1989",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(51)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(51)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/json.html",
+                    "content_type": "text/html",
+                    "media_etag": "\"{B9A705AD-97DF-48C1-B699-2A5075652A59},1\""
+                },
+                "Id": 51,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343751000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(51)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343751000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(51)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(51)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "json.html",
+                "VirusStatus": "1241",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(52)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(52)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/jquery/jquery-1.9.1.min.js",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{F2B835F4-18FB-4991-BCFD-C708114BAA3B},1\""
+                },
+                "Id": 52,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343751000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(52)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343751000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(52)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/jquery",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(52)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "jquery-1.9.1.min.js",
+                "VirusStatus": "92629",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(53)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(53)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png",
+                    "content_type": "image/png",
+                    "media_etag": "\"{35003E55-54DB-4E62-809A-5E6829ACD48A},1\""
+                },
+                "Id": 53,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343752000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(53)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343752000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(53)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(53)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "ui-bg_glass_80_d7ebf9_1x400.png",
+                "VirusStatus": "346",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(54)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(54)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images/ui-bg_glass_50_3baae3_1x400.png",
+                    "content_type": "image/png",
+                    "media_etag": "\"{5549E68D-1046-4275-A8C6-A52265CB5203},1\""
+                },
+                "Id": 54,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343752000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(54)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343752000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(54)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(54)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "ui-bg_glass_50_3baae3_1x400.png",
+                "VirusStatus": "336",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(55)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(55)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images/animated-overlay.gif",
+                    "content_type": "image/gif",
+                    "media_etag": "\"{207DCF55-141C-45EA-A3D6-3232D95E7B6B},1\""
+                },
+                "Id": 55,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343752000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(55)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343752000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(55)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(55)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "animated-overlay.gif",
+                "VirusStatus": "1738",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(56)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(56)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images/ui-icons_72a7cf_256x240.png",
+                    "content_type": "image/png",
+                    "media_etag": "\"{19594EC5-FD6A-4887-9289-9B5603549D01},1\""
+                },
+                "Id": 56,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343752000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(56)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343752000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(56)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(56)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "ui-icons_72a7cf_256x240.png",
+                "VirusStatus": "4549",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(57)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(57)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/changelog.txt",
+                    "content_type": "text/plain",
+                    "media_etag": "\"{530A71AE-2415-4B97-B7B5-4898D23A6F0E},1\""
+                },
+                "Id": 57,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343752000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(57)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343752000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(57)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(57)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "changelog.txt",
+                "VirusStatus": "14521",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(58)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(58)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/theme.html",
+                    "content_type": "text/html",
+                    "media_etag": "\"{C252BDE3-0A87-4C6B-B43E-0276C3630B7E},1\""
+                },
+                "Id": 58,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343753000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(58)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343753000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(58)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(58)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "theme.html",
+                "VirusStatus": "1963",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(59)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(59)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images/ui-icons_2e83ff_256x240.png",
+                    "content_type": "image/png",
+                    "media_etag": "\"{FF7CCB46-C2C1-4007-8EA2-6BBF8D55733D},1\""
+                },
+                "Id": 59,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343753000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(59)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343753000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(59)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(59)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "ui-icons_2e83ff_256x240.png",
+                "VirusStatus": "4549",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(60)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(60)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png",
+                    "content_type": "image/png",
+                    "media_etag": "\"{FBBB14CB-C254-4A54-9899-5E77808F54F9},1\""
+                },
+                "Id": 60,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343753000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(60)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343753000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(60)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(60)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "ui-bg_highlight-hard_100_f2f5f7_1x100.png",
+                "VirusStatus": "332",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(61)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(61)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images/ui-bg_flat_15_cd0a0a_40x100.png",
+                    "content_type": "image/png",
+                    "media_etag": "\"{0C85B803-D03F-4062-A1A8-ED9DA48AEEC6},1\""
+                },
+                "Id": 61,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343753000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(61)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343753000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(61)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(61)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "ui-bg_flat_15_cd0a0a_40x100.png",
+                "VirusStatus": "206",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(62)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(62)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/gcal.html",
+                    "content_type": "text/html",
+                    "media_etag": "\"{DACDBFF2-B227-4FB1-B2F1-744124487311},1\""
+                },
+                "Id": 62,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343753000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(62)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343753000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(62)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(62)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "gcal.html",
+                "VirusStatus": "1317",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(63)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(63)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images/ui-bg_highlight-hard_70_000000_1x100.png",
+                    "content_type": "image/png",
+                    "media_etag": "\"{37DE6D73-4F13-448D-BE92-AABAB547F920},1\""
+                },
+                "Id": 63,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343753000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(63)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343753000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(63)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(63)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "ui-bg_highlight-hard_70_000000_1x100.png",
+                "VirusStatus": "249",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(64)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(64)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/external-dragging.html",
+                    "content_type": "text/html",
+                    "media_etag": "\"{A2DA4C83-4F19-417F-8165-D8249009EFAC},1\""
+                },
+                "Id": 64,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343758000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(64)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343758000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(64)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(64)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "external-dragging.html",
+                "VirusStatus": "3989",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(65)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(65)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/basic-views.html",
+                    "content_type": "text/html",
+                    "media_etag": "\"{355F0CED-2C51-4643-AC9F-34CBEBDC19A9},1\""
+                },
+                "Id": 65,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343758000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(65)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343758000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(65)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(65)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "basic-views.html",
+                "VirusStatus": "1892",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(66)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(66)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/fullcalendar/fullcalendar.min.js",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{3470CF0D-0A46-4BC4-A20B-25A4C7DD49E6},1\""
+                },
+                "Id": 66,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343759000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(66)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343759000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(66)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/fullcalendar",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(66)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "fullcalendar.min.js",
+                "VirusStatus": "49366",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(67)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(67)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/selectable.html",
+                    "content_type": "text/html",
+                    "media_etag": "\"{E28D27E7-5EF9-4132-A74D-D3F11E35CBE8},1\""
+                },
+                "Id": 67,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343759000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(67)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343759000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(67)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(67)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "selectable.html",
+                "VirusStatus": "2400",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(68)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(68)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/json-events.php",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{F86438D7-C759-45C6-994F-359807A425FA},1\""
+                },
+                "Id": 68,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343759000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(68)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343759000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(68)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(68)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "json-events.php",
+                "VirusStatus": "358",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(69)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(69)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images/ui-icons_2694e8_256x240.png",
+                    "content_type": "image/png",
+                    "media_etag": "\"{C4071126-B11A-41DB-BF90-FDBA35DF7C2F},1\""
+                },
+                "Id": 69,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343759000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(69)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343759000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(69)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(69)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "ui-icons_2694e8_256x240.png",
+                "VirusStatus": "4549",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(70)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(70)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/fullcalendar/fullcalendar.css",
+                    "content_type": "text/css",
+                    "media_etag": "\"{4FD6E5EF-616E-4FB4-8FF8-FD11A66B78CF},1\""
+                },
+                "Id": 70,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343760000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(70)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343760000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(70)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/fullcalendar",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(70)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "fullcalendar.css",
+                "VirusStatus": "10970",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(71)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(71)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images/ui-bg_highlight-soft_100_deedf7_1x100.png",
+                    "content_type": "image/png",
+                    "media_etag": "\"{9D02D638-D5CE-4812-A86D-2B4DE66D631B},1\""
+                },
+                "Id": 71,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343760000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(71)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343760000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(71)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(71)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "ui-bg_highlight-soft_100_deedf7_1x100.png",
+                "VirusStatus": "387",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(72)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(72)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/jquery/jquery-ui-1.10.2.custom.min.js",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{BC15386D-CB48-4DC5-A646-AB64A9FDA949},1\""
+                },
+                "Id": 72,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343760000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(72)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343760000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(72)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/jquery",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(72)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "jquery-ui-1.10.2.custom.min.js",
+                "VirusStatus": "48819",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(73)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(73)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/fullcalendar/gcal.js",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{B373F5A6-AEA9-4471-930D-02566F0D4839},1\""
+                },
+                "Id": 73,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343760000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(73)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343760000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(73)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/fullcalendar",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(73)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "gcal.js",
+                "VirusStatus": "2658",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(74)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(74)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/fullcalendar/fullcalendar.print.css",
+                    "content_type": "text/css",
+                    "media_etag": "\"{0B4F183E-9BF5-45EF-BBD2-92EA40A1CAF5},1\""
+                },
+                "Id": 74,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343761000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(74)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343761000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(74)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/fullcalendar",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(74)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "fullcalendar.print.css",
+                "VirusStatus": "668",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(75)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(75)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/default.html",
+                    "content_type": "text/html",
+                    "media_etag": "\"{CBC9828A-BABB-429B-A209-EAE37A119757},1\""
+                },
+                "Id": 75,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343761000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(75)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343761000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(75)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(75)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "default.html",
+                "VirusStatus": "1875",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(76)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(76)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images/ui-icons_3d80b3_256x240.png",
+                    "content_type": "image/png",
+                    "media_etag": "\"{0ED6454A-5FF4-4FBE-BFC2-55541EF4BCCC},1\""
+                },
+                "Id": 76,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343761000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(76)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343761000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(76)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(76)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "ui-icons_3d80b3_256x240.png",
+                "VirusStatus": "4549",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(77)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(77)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png",
+                    "content_type": "image/png",
+                    "media_etag": "\"{F945CCD1-2994-4DDD-A66C-FAF1E6E7F8C9},1\""
+                },
+                "Id": 77,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343761000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(77)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343761000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(77)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/demos/cupertino/images",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(77)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "ui-bg_highlight-soft_25_ffef8f_1x100.png",
+                "VirusStatus": "309",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(78)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(78)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/fullcalendar-1.6.1/fullcalendar/fullcalendar.js",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{ED27751D-4574-4F64-973E-B4217C23002C},1\""
+                },
+                "Id": 78,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372343762000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(78)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372343762000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(78)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/fullcalendar-1.6.1/fullcalendar",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(78)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "fullcalendar.js",
+                "VirusStatus": "128374",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(79)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(79)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev",
+                    "content_type": "text/xml"
+                },
+                "Id": 79,
+                "ContentTypeID": "0x012000D3ADD345F6F31548A036E73F55FE6EAF",
+                "ContentType": "Folder",
+                "Created": "/Date(1372344065000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(79)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372344102000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(79)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(79)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "angular",
+                "VirusStatus": "",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(80)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(80)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/angular/angular.js",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{129A6DF4-698A-434D-8F64-A2D169C8B0A3},2\""
+                },
+                "Id": 80,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372344089000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(80)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372344089000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(80)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/angular",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(80)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "angular.js",
+                "VirusStatus": "483932",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(81)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(81)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev",
+                    "content_type": "text/xml"
+                },
+                "Id": 81,
+                "ContentTypeID": "0x012000D3ADD345F6F31548A036E73F55FE6EAF",
+                "ContentType": "Folder",
+                "Created": "/Date(1372344263000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(81)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372344277000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(81)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(81)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "angular-ui-calendar",
+                "VirusStatus": "",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(82)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(82)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/voting/components/angular-ui-calendar/calendar.js",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{7409FD4C-87B0-4686-8573-2E4DAC51CC4C},1\""
+                },
+                "Id": 82,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372344324000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(82)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372344324000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(82)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/voting/components/angular-ui-calendar",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(82)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "calendar.js",
+                "VirusStatus": "6525",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(91)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(91)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev",
+                    "content_type": "text/xml"
+                },
+                "Id": 91,
+                "ContentTypeID": "0x012000D3ADD345F6F31548A036E73F55FE6EAF",
+                "ContentType": "Folder",
+                "Created": "/Date(1372777305000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(91)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372777309000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(91)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(91)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "polling",
+                "VirusStatus": "",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(92)",
+                    "etag": "W/\"3\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(92)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/polling/404.html",
+                    "content_type": "text/html",
+                    "media_etag": "\"{CE45609E-A941-4FCD-BE9D-49AEF6CFC187},3\""
+                },
+                "Id": 92,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372777315000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(92)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372782524000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(92)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/polling",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(92)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "404.html",
+                "VirusStatus": "4458",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 3,
+                "Version": "2.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(93)",
+                    "etag": "W/\"3\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(93)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/polling/favicon.ico",
+                    "content_type": "image/x-icon",
+                    "media_etag": "\"{F2287281-012A-4D59-A2FE-07B655D00861},3\""
+                },
+                "Id": 93,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372777316000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(93)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372782525000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(93)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/polling",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(93)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "favicon.ico",
+                "VirusStatus": "4286",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 3,
+                "Version": "2.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(94)",
+                    "etag": "W/\"3\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(94)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/polling/index.html",
+                    "content_type": "text/html",
+                    "media_etag": "\"{E643CD61-1332-4DE9-8613-6FF444C29A51},3\""
+                },
+                "Id": 94,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372777318000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(94)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372782526000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(94)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/polling",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(94)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": 9,
+                "Name": "index.html",
+                "VirusStatus": "4540",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 3,
+                "Version": "2.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(95)",
+                    "etag": "W/\"3\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(95)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/polling/robots.txt",
+                    "content_type": "text/plain",
+                    "media_etag": "\"{2F8AD122-35A8-4E3D-A7BD-1807F2DCB084},3\""
+                },
+                "Id": 95,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372777318000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(95)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372782526000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(95)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/polling",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(95)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "robots.txt",
+                "VirusStatus": "31",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 3,
+                "Version": "2.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(96)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(96)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev",
+                    "content_type": "text/xml"
+                },
+                "Id": 96,
+                "ContentTypeID": "0x012000D3ADD345F6F31548A036E73F55FE6EAF",
+                "ContentType": "Folder",
+                "Created": "/Date(1372777318000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(96)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372777318000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(96)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/polling",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(96)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "styles",
+                "VirusStatus": "",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(97)",
+                    "etag": "W/\"3\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(97)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/polling/styles/main.css",
+                    "content_type": "text/css",
+                    "media_etag": "\"{A49E26EA-446D-4EF7-82F1-F15D85B01984},3\""
+                },
+                "Id": 97,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372777318000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(97)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372782526000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(97)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/polling/styles",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(97)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "main.css",
+                "VirusStatus": "403",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 3,
+                "Version": "2.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(98)",
+                    "etag": "W/\"1\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(98)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev",
+                    "content_type": "text/xml"
+                },
+                "Id": 98,
+                "ContentTypeID": "0x012000D3ADD345F6F31548A036E73F55FE6EAF",
+                "ContentType": "Folder",
+                "Created": "/Date(1372777319000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(98)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372777319000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(98)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/polling",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(98)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "scripts",
+                "VirusStatus": "",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 1,
+                "Version": "1.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(99)",
+                    "etag": "W/\"3\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(99)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/polling/scripts/modules.js",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{0C686FE1-F8CB-46C5-91EE-726C85F5D626},3\""
+                },
+                "Id": 99,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372777319000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(99)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372782530000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(99)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/polling/scripts",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(99)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "modules.js",
+                "VirusStatus": "1243374",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 3,
+                "Version": "2.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(100)",
+                    "etag": "W/\"3\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(100)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/polling/scripts/scripts.js",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{D4EEC0F7-7C34-4C5C-9199-50A4DC2914DB},3\""
+                },
+                "Id": 100,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1372777323000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(100)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372782529000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(100)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/polling/scripts",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(100)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": null,
+                "Name": "scripts.js",
+                "VirusStatus": "468",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 3,
+                "Version": "2.0",
+                "WikiContent": null
+            },
+            {
+                "__metadata": {
+                    "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(101)",
+                    "etag": "W/\"0\"",
+                    "type": "Microsoft.SharePoint.DataService.SitePagesItem",
+                    "edit_media": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(101)/$value",
+                    "media_src": "https://theloop.gov.bc.ca/dev/SitePages/polling/index.aspx",
+                    "content_type": "application/octetstream",
+                    "media_etag": "\"{80E96A6F-B941-4261-ADFD-98C9F60BBEBE},1\""
+                },
+                "Id": 101,
+                "ContentTypeID": "0x01010800DA13EB05EAE94446ABD1BD3263626C11",
+                "ContentType": "Wiki Page",
+                "Created": "/Date(1331646320000)/",
+                "CreatedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(101)/CreatedBy"
+                    }
+                },
+                "CreatedById": 9,
+                "Modified": "/Date(1372778782000)/",
+                "ModifiedBy": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(101)/ModifiedBy"
+                    }
+                },
+                "ModifiedById": 9,
+                "CopySource": null,
+                "ApprovalStatus": "0",
+                "Path": "/dev/SitePages/polling",
+                "CheckedOutTo": {
+                    "__deferred": {
+                        "uri": "https://theloop.gov.bc.ca/dev/_vti_bin/listdata.svc/SitePages(101)/CheckedOutTo"
+                    }
+                },
+                "CheckedOutToId": 9,
+                "Name": "index.aspx",
+                "VirusStatus": "4900",
+                "IsCurrentVersion": true,
+                "Owshiddenversion": 0,
+                "Version": "1.0",
+                "WikiContent": null
+            }
+        ]
+    }
+}

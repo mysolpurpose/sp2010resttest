@@ -1,0 +1,49 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "uri": "https://theloop.gov.bc.ca/_vti_bin/listdata.svc/Documents(2)",
+          "etag": "W/\"3\"",
+          "type": "Microsoft.SharePoint.DataService.DocumentsItem",
+          "edit_media": "https://theloop.gov.bc.ca/_vti_bin/listdata.svc/Documents(2)/$value",
+          "media_src": "https://theloop.gov.bc.ca/Documents/Ministry New_eApprovals_Calendar.pdf",
+          "content_type": "application/octetstream",
+          "media_etag": "\"{720C2D2B-F7A9-403A-97EC-497510D165BF},3\""
+        },
+        "ContentTypeID": "0x010100D8E40731C2136B43B9CF9790FFC41140",
+        "Name": "Ministry New_eApprovals_Calendar.pdf",
+        "Title": null,
+        "Id": 2,
+        "ContentType": "Document",
+        "Created": "/Date(1328874708000)/",
+        "CreatedBy": {
+          "__deferred": {
+            "uri": "https://theloop.gov.bc.ca/_vti_bin/listdata.svc/Documents(2)/CreatedBy"
+          }
+        },
+        "CreatedById": 82,
+        "Modified": "/Date(1328875567000)/",
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://theloop.gov.bc.ca/_vti_bin/listdata.svc/Documents(2)/ModifiedBy"
+          }
+        },
+        "ModifiedById": 82,
+        "CopySource": null,
+        "ApprovalStatus": "0",
+        "Path": "/Documents",
+        "CheckedOutTo": {
+          "__deferred": {
+            "uri": "https://theloop.gov.bc.ca/_vti_bin/listdata.svc/Documents(2)/CheckedOutTo"
+          }
+        },
+        "CheckedOutToId": null,
+        "VirusStatus": "13789776",
+        "IsCurrentVersion": true,
+        "Owshiddenversion": 3,
+        "Version": "2.0"
+        }
+      ]
+    }
+  }
